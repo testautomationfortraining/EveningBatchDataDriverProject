@@ -9,6 +9,10 @@ import com.gurubank.qa.base.TestBase;
 import com.gurubank.qa.pages.HomePage;
 import com.gurubank.qa.pages.LoginPage;
 
+/*
+ * This test case explains about the login page
+ * and its functionalities
+ */
 public class LoginPageTest extends TestBase {
 	
 	LoginPage loginPage;
