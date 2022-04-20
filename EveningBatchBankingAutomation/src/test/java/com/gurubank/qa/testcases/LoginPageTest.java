@@ -12,6 +12,7 @@ import com.gurubank.qa.pages.LoginPage;
 /*
  * This test case explains about the login page
  * and its functionalities
+ * This is for demo purpose
  */
 public class LoginPageTest extends TestBase {
 	
